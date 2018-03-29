@@ -1,8 +1,6 @@
-# Classiying building's roof-type with CNTK and Workbench
+# Classiying building's roof-type with CNTK and Workbench, using transfer learning
 
-
-### NOTE: This is based heavily on the tutorial "Image Classification using Microsoft Cognitive Toolkit (CNTK)"
-[https://docs.microsoft.com/azure/machine-learning/preview/scenario-image-classification-using-cntk](https://docs.microsoft.com/azure/machine-learning/preview/scenario-image-classification-using-cntk)
+Link to blog post coming soon...
 
 ### Setup:
 
@@ -28,4 +26,8 @@ pip install -U numpy
 pip install bqplot
 
 jupyter nbextension enable --py --sys-prefix bqplot
+
+### Running the project
+
+Run Scripts 0-5 in order
 
