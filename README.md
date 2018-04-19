@@ -1,6 +1,6 @@
 # Classiying building's roof-type with CNTK and Workbench, using transfer learning
 
-Link to blog post coming soon...
+Read the blog post to find out more: https://blogs.technet.microsoft.com/uktechnet/2018/04/18/classifying-the-uks-roofs-from-aerial-imagery-using-deep-learning-with-cntk/
 
 ### Setup:
 
